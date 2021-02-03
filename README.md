@@ -7,4 +7,4 @@
 
 <h2>Como ficará nosso projeto</h2>
 
-![image](https://user-images.githubusercontent.com/72364037/106679890-4745ea80-659c-11eb-9ea2-9fd0e1a00998.png)
+![image](https://user-images.githubusercontent.com/72364037/106679971-752b2f00-659c-11eb-97f5-7fe0479fc9c6.png)
