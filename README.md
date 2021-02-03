@@ -8,3 +8,5 @@
 <h2>Como ficará nosso projeto</h2>
 
 ![image](https://user-images.githubusercontent.com/72364037/106679971-752b2f00-659c-11eb-97f5-7fe0479fc9c6.png)
+
+https://user-images.githubusercontent.com/72364037/106680086-b4f21680-659c-11eb-8a0c-1c98cf6f0c7b.mp4
